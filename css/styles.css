@@ -112,8 +112,11 @@ color: #2e2f42;
 }
 .team {
 background: #f4f4fd;
-
 }
+.portfolio {
+    background-color: #fff;
+}
+
 .footer {
 background: #2e2f42;
 }
