@@ -38,8 +38,8 @@ font-size: 16px;
  letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.header-menu:hover ,
-.header-menu:focus ,
+.header-menu:hover,
+.header-menu:focus,
 .contact-mail:hover,
 .contact-mail:focus {
 color: #404bbf;
@@ -84,9 +84,6 @@ background: #404bbf;
 }
 .strategy {
     text-transform: capitalize;
-}
-.header-none {
-    background-color: #fff;
 }
 
 .header-three {
@@ -137,5 +134,8 @@ color: #2e2f42;
     background-color: #fff;
 }
 .portofolio {
+    background-color: #fff;
+}
+.team-photo {
     background-color: #fff;
 }
