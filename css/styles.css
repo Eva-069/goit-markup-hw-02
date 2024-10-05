@@ -102,16 +102,8 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.header-two {
-font-weight: 700;
-font-size: 36px;
-line-height: 111%;
-letter-spacing: 0.02em;
-text-align: center;
-color: #2e2f42;
-}
 .team {
-background: #f4f4fd;
+background: #fff;
 }
 
 .footer {
@@ -140,7 +132,4 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-}
-.wrip {
-    background-color: #fff;
 }
