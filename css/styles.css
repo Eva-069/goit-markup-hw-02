@@ -103,7 +103,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .team {
-background: #fff;
+background: #f4f4fd;
 }
 
 .footer {
@@ -132,4 +132,10 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+}
+.wrip {
+    background-color: #fff;
+}
+.portofolio {
+    background-color: #fff;
 }
